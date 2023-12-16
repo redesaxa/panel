@@ -5,8 +5,8 @@
 3. ```yum -y update```
 4. ```cd /usr/local/src```
 5. ```wget http://centos-webpanel.com/cwp-el7-latest```
-6. ```sh cwp-el7-latest``
-7. ```reboot``
+6. ```sh cwp-el7-latest```
+7. ```reboot```
 
 ## FOR ACCESS VIA BROWSER
 
